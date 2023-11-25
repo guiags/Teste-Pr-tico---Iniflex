@@ -93,7 +93,7 @@ public class Teste_Pratico_Iniflex {
         
         // 3.3 – Imprimir todos os funcionários com todas suas informações, sendo que:
         //• informação de data deve ser exibido no formato dd/mm/aaaa;
-        //• informação de valor numérico deve ser exibida no formatado com separador de milhar como ponto e decimal como vírgula.
+        //• informação de valor numérico deve ser exibida no formatado com separador de milhar como ponto e decimal como vírgula.(NAO SOUBE RESOLVER).
         System.out.println("Item 3.3:");
         for(Funcionario funcionario: funcionarios){
             funcionario.imprimeFuncionario();
